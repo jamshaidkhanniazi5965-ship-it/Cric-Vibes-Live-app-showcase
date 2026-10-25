@@ -1,7 +1,6 @@
 <div align="center">
 
-# 🏏 Cric Vibes Live
-### Your Ultimate Cricket Companion App
+<img src="assets/banner.jpg" alt="Cric Vibes Live: Your Ultimate Cricket Companion App" width="100%">
 
 [![Play Store](https://img.shields.io/badge/Google_Play-Download_Now-brightgreen?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.niazicricket.app)
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?style=for-the-badge&logo=flutter)
