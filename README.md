@@ -168,6 +168,16 @@ Build your own tournament with teams and players, fully offline.
 </tr>
 </table>
 
+### 📖 Cricket Rules & Terms
+
+Rules, an A–Z glossary of cricket terms with search, and fielding positions, available offline.
+
+<table>
+<tr>
+<td align="center"><img src="screenshots/12-rules-and-terms.jpg" alt="Terms A-Z" width="260"><br><sub>Terms A–Z</sub></td>
+</tr>
+</table>
+
 > 📲 More on the [Play Store listing](https://play.google.com/store/apps/details?id=com.niazicricket.app)
 
 ## 🚀 What I Learned Building This
