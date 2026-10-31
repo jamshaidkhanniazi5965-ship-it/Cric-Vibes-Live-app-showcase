@@ -56,7 +56,36 @@ Built as an independent project by a second-semester BS Computer Science student
 
 ## 📸 Screenshots
 
-> 📲 See the full app demo video and screenshots on the [Play Store listing](https://play.google.com/store/apps/details?id=com.niazicricket.app)
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%"><img src="screenshots/01-match-highlights.jpg" alt="Match Highlights" width="240"><br><b>Match Highlights</b></td>
+<td align="center" width="33%"><img src="screenshots/02-cricket-news.jpg" alt="Cricket News" width="240"><br><b>Cricket News</b></td>
+<td align="center" width="33%"><img src="screenshots/03-cricket-analysis.jpg" alt="Cricket Analysis" width="240"><br><b>Cricket Analysis</b></td>
+</tr>
+<tr>
+<td align="center" width="33%"><img src="screenshots/04-icc-rankings.jpg" alt="ICC Rankings" width="240"><br><b>ICC Rankings</b></td>
+<td align="center" width="33%"><img src="screenshots/05-player-comparison.jpg" alt="Player Comparison" width="240"><br><b>Player Comparison</b></td>
+<td align="center" width="33%"><img src="screenshots/06-live-scores.jpg" alt="Live Scores" width="240"><br><b>Live Scores</b></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="33%"><img src="screenshots/07-home.jpg" alt="Home" width="240"><br><b>Home</b></td>
+<td align="center" width="33%"><img src="screenshots/08-scorecard.jpg" alt="Full Scorecard" width="240"><br><b>Full Scorecard</b></td>
+<td align="center" width="33%"><img src="screenshots/09-world-records.jpg" alt="World Records" width="240"><br><b>World Records</b></td>
+</tr>
+<tr>
+<td align="center" width="33%"><img src="screenshots/10-schedule.jpg" alt="Schedule" width="240"><br><b>Schedule</b></td>
+<td align="center" width="33%"><img src="screenshots/11-create-tournament.jpg" alt="Create Tournament" width="240"><br><b>Create Tournament</b></td>
+</tr>
+</table>
+
+</div>
+
+> 📲 More on the [Play Store listing](https://play.google.com/store/apps/details?id=com.niazicricket.app)
 
 ## 🚀 What I Learned Building This
 
