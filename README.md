@@ -56,34 +56,117 @@ Built as an independent project by a second-semester BS Computer Science student
 
 ## 📸 Screenshots
 
-<div align="center">
+### 🎬 Match Highlights
+
+Fresh highlight clips from official boards and leagues, updated through the day.
 
 <table>
 <tr>
-<td align="center" width="33%"><img src="screenshots/01-match-highlights.jpg" alt="Match Highlights" width="240"><br><b>Match Highlights</b></td>
-<td align="center" width="33%"><img src="screenshots/02-cricket-news.jpg" alt="Cricket News" width="240"><br><b>Cricket News</b></td>
-<td align="center" width="33%"><img src="screenshots/03-cricket-analysis.jpg" alt="Cricket Analysis" width="240"><br><b>Cricket Analysis</b></td>
-</tr>
-<tr>
-<td align="center" width="33%"><img src="screenshots/04-icc-rankings.jpg" alt="ICC Rankings" width="240"><br><b>ICC Rankings</b></td>
-<td align="center" width="33%"><img src="screenshots/05-player-comparison.jpg" alt="Player Comparison" width="240"><br><b>Player Comparison</b></td>
-<td align="center" width="33%"><img src="screenshots/06-live-scores.jpg" alt="Live Scores" width="240"><br><b>Live Scores</b></td>
+<td align="center"><img src="screenshots/01-match-highlights.jpg" alt="Match highlights" width="260"><br><sub>Match highlights</sub></td>
 </tr>
 </table>
+
+### 📰 Cricket News
+
+The latest cricket news from around the world, with photos.
 
 <table>
 <tr>
-<td align="center" width="33%"><img src="screenshots/07-home.jpg" alt="Home" width="240"><br><b>Home</b></td>
-<td align="center" width="33%"><img src="screenshots/08-scorecard.jpg" alt="Full Scorecard" width="240"><br><b>Full Scorecard</b></td>
-<td align="center" width="33%"><img src="screenshots/09-world-records.jpg" alt="World Records" width="240"><br><b>World Records</b></td>
-</tr>
-<tr>
-<td align="center" width="33%"><img src="screenshots/10-schedule.jpg" alt="Schedule" width="240"><br><b>Schedule</b></td>
-<td align="center" width="33%"><img src="screenshots/11-create-tournament.jpg" alt="Create Tournament" width="240"><br><b>Create Tournament</b></td>
+<td align="center"><img src="screenshots/02-cricket-news.jpg" alt="News feed" width="260"><br><sub>News feed</sub></td>
 </tr>
 </table>
 
-</div>
+### 📊 Cricket Analysis
+
+Match previews, press conferences and expert analysis videos.
+
+<table>
+<tr>
+<td align="center"><img src="screenshots/03-cricket-analysis.jpg" alt="Previews & press conferences" width="260"><br><sub>Previews & press conferences</sub></td>
+<td align="center"><img src="screenshots/03b-cricket-analysis.jpg" alt="Expert analysis" width="260"><br><sub>Expert analysis</sub></td>
+</tr>
+</table>
+
+### 🏆 ICC Rankings
+
+Current ICC player rankings for Test, ODI and T20.
+
+<table>
+<tr>
+<td align="center"><img src="screenshots/04-icc-rankings.jpg" alt="Batting rankings" width="260"><br><sub>Batting rankings</sub></td>
+</tr>
+</table>
+
+### ⚖️ Player Comparison
+
+Compare any two players side by side; the app picks a winner for each format.
+
+<table>
+<tr>
+<td align="center"><img src="screenshots/05-player-comparison.jpg" alt="Babar Azam vs Virat Kohli" width="260"><br><sub>Babar Azam vs Virat Kohli</sub></td>
+<td align="center"><img src="screenshots/05b-player-comparison-winner.jpg" alt="Format winner" width="260"><br><sub>Format winner</sub></td>
+</tr>
+</table>
+
+### 🏟️ Live Scores
+
+Live international and domestic scores.
+
+<table>
+<tr>
+<td align="center"><img src="screenshots/06-live-scores.jpg" alt="Live matches" width="260"><br><sub>Live matches</sub></td>
+</tr>
+</table>
+
+### 🏠 Home
+
+Quick access to every feature from one screen.
+
+<table>
+<tr>
+<td align="center"><img src="screenshots/07-home.jpg" alt="Home screen" width="260"><br><sub>Home screen</sub></td>
+</tr>
+</table>
+
+### 📋 Full Scorecard
+
+Batting and bowling figures for every match.
+
+<table>
+<tr>
+<td align="center"><img src="screenshots/08-scorecard.jpg" alt="England vs Pakistan" width="260"><br><sub>England vs Pakistan</sub></td>
+</tr>
+</table>
+
+### 📜 World Records
+
+All-time batting, bowling and team records, available offline.
+
+<table>
+<tr>
+<td align="center"><img src="screenshots/09-world-records.jpg" alt="Batting records" width="260"><br><sub>Batting records</sub></td>
+</tr>
+</table>
+
+### 📅 Schedule
+
+Upcoming international and domestic series and fixtures.
+
+<table>
+<tr>
+<td align="center"><img src="screenshots/10-schedule.jpg" alt="International schedule" width="260"><br><sub>International schedule</sub></td>
+</tr>
+</table>
+
+### 🏅 Create Tournament
+
+Build your own tournament with teams and players, fully offline.
+
+<table>
+<tr>
+<td align="center"><img src="screenshots/11-create-tournament.jpg" alt="New tournament" width="260"><br><sub>New tournament</sub></td>
+</tr>
+</table>
 
 > 📲 More on the [Play Store listing](https://play.google.com/store/apps/details?id=com.niazicricket.app)
 
